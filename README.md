@@ -22,6 +22,7 @@
 
             <!--Competencias y Habilidades -->
             <h2>Competencias y Habilidades</h2>
+            
             <ul>
                 <li>Desarrollo de software</li>
                 <li>Comunicación efectiva</li>
